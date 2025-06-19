@@ -1,7 +1,7 @@
 import AboutMeText from './AboutMeText'
 import AboutMeImage from './AboutMeImage'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 
 function AboutMeMain() {
     return (
