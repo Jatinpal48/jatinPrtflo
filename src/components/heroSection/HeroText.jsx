@@ -1,6 +1,6 @@
 import React from 'react'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../framerMotion/temp'
+import {fadeIn} from '../../framerMotion/Variants'
 
 function HeroText() {
     return (
