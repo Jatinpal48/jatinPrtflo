@@ -1,9 +1,8 @@
 import AboutMeText from './AboutMeText'
 import AboutMeImage from './AboutMeImage'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../framerMotion/Variants'
-
-// import path fixed ✅
+import { fadeIn } from '../../framerMotion/Variants';
+// 🛠️ fixed casing issue
 
 function AboutMeMain() {
     return (
