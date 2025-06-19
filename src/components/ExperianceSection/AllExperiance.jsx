@@ -2,7 +2,7 @@ import React from 'react'
 import { FaArrowRight } from "react-icons/fa";
 import SingleExperience from './SingleExperiance';
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 const experiences = [
     {
         job:"Front-End Developer",

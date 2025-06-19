@@ -9,7 +9,7 @@ import { FaFigma } from "react-icons/fa";
 import { FaJava } from "react-icons/fa";
 import SingleSkill from './SingleSkill';
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 
 
 const skills = [

@@ -2,7 +2,7 @@ import SkillsText from './SkillsText'
 import AllSkills from './AllSkills'
 import AllSkillsSM from './AllSkillsSM'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 
 function SkillsMain() {
     return (

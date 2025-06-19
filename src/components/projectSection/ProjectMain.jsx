@@ -2,7 +2,7 @@ import React from 'react'
 import ProjectText from './ProjectText'
 import SingleProject from './SingleProject'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 
 const projects = [
     {

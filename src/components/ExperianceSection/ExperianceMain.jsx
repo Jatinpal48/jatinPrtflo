@@ -3,7 +3,7 @@ import ExperianceText from './ExperianceText'
 import ExperianceTop from './ExperianceTop'
 import AllExperiance from './AllExperiance'
 import {motion} from 'framer-motion'
-import {fadeIn} from '../../FramerMotion/Variants'
+import {fadeIn} from '../../framerMotion/Variants'
 
 function ExperianceMain() {
     return (
