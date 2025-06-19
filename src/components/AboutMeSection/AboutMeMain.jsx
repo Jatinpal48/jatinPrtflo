@@ -2,6 +2,7 @@ import AboutMeText from './AboutMeText'
 import AboutMeImage from './AboutMeImage'
 import {motion} from 'framer-motion'
 import {fadeIn} from '../../framerMotion/Variants'
+// Fixed import casing
 
 function AboutMeMain() {
     return (
