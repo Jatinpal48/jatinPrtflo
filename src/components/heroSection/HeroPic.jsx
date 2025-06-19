@@ -3,6 +3,7 @@ import { PiHexagonThin } from "react-icons/pi";
 import {motion} from 'framer-motion'
 import { fadeIn } from '../../framerMotion/Variants';
 
+// rebuild test
 
 function HeroPic() {
     return (
