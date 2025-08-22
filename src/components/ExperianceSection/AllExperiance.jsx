@@ -5,36 +5,35 @@ import {motion} from 'framer-motion'
 import {fadeIn} from '../../framerMotion/Variants'
 const experiences = [
     {
-        job:"Front-End Developer",
-        company: "Alex Apps",
-        date:"2022 - Present",
+        job:"TechStack Intern",
+        company: "Hashednit Innovation",
+        date:"june 2025 - Present",
         responsibilities: [
-            "Implementing reusable components.",
-            "Participating in large scale applications.",
-            "Working on the performance of web applications.",
-            "Generating new ideas for better user experience.",
+            "Collaborated with the development team to build and enhance web application using technologies such as React.js , Tailwind CSS, JavaScript and Node.js.",
+            "Worked on full-stack features including frontend UI Components and backend API Integeration",
+            
         ],
     },
-    {
-        job:"Course Instructor",
-        company: "Nucamp",
-        date:"2023-Present",
-        responsibilities: [
-            "Explaining and facilitating web development concepts.",
-            "Help students withnthier assignment and grade them weekly.",
-            "provide support for students through their learning journey.",
-        ],
-    },
-    {
-        job:"Front-End Developer",
-        company: "Freelance",
-        date:"2021-2022",
-        responsibilities: [
-            "Building responsive websites.",
-            "Working with clients to understand their needs.",
-            "Creating user-friendly interfaces.",
-        ],
-    },
+    // {
+    //     job:"Course Instructor",
+    //     company: "Nucamp",
+    //     date:"2023-Present",
+    //     responsibilities: [
+    //         "Explaining and facilitating web development concepts.",
+    //         "Help students withnthier assignment and grade them weekly.",
+    //         "provide support for students through their learning journey.",
+    //     ],
+    // },
+    // {
+    //     job:"Front-End Developer",
+    //     company: "Freelance",
+    //     date:"2021-2022",
+    //     responsibilities: [
+    //         "Building responsive websites.",
+    //         "Working with clients to understand their needs.",
+    //         "Creating user-friendly interfaces.",
+    //     ],
+    // },
 ];
 function AllExperiance() {
     return (

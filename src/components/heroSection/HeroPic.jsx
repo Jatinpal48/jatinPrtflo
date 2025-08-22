@@ -13,9 +13,11 @@ function HeroPic() {
         whileInView='show'
         viewport={{once: false, amount: 0.2}}
         className='h-full flex items-center justify-center'>
-            <img 
-            
-            src="../../public/images/jatin2.png" alt='Jatin Pal' className='max-h-[600px] w-auto'/>
+           <img 
+               src="/images/jatin2.png" 
+               alt="Jatin Pal" 
+               className="max-h-[600px] w-auto"
+            />
             <div className='absolute -z-10 flex justify-center items-center animate-pulse'>
                 <PiHexagonThin className='md:h-[90%] sm:h-[120%] min-h-[600px] w-auto text-cyan blur-md animate-[spin_20s_linear_infinite]' />
             </div>
